@@ -1,0 +1,105 @@
+main
+index
+ - remove and replace the schedule with sub 
+ - remove commments
+ - import department
+ - remove schedule at footer
+ - add photos
+ 
+
+
+
+
+
+
+
+
+
+
+
+ time table
+ <div class="col-lg-5 col-md-7">
+					<div class="footer-widget">
+						<div class="fw-timetable">
+							<div class="fw-title">Opening Hours</div>
+							<div class="timetable-content">
+								<table>
+									<tr>
+										<td>Monday</td>
+										<td>8:00am - 12:00pm</td>
+									</tr>
+									<tr>
+										<td>Tuesday</td>
+										<td>8:00am - 12:00pm</td>
+									</tr>
+									<tr>
+										<td>Wednesday</td>
+										<td>8:00am - 12:00pm</td>
+									</tr>
+									<tr>
+										<td>Thursday</td>
+										<td>8:00am - 12:00pm</td>
+									</tr>
+									<tr>
+										<td>Friday</td>
+										<td>8:00am - 12:00pm</td>
+									</tr>
+									<tr>
+										<td>Sunday</td>
+										<td>8:00am - 12:00pm</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OPening hrs
+<div class="hi-content">
+							<h6>Opening Hours</h6>
+							<p>Mon - Sat: 8:00 - 19:00</p>
+						</div>
+Subscribe of services tab
+	<section class="newsletter-section spad">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 banner-text text-white">
+					<h4>Subscrieb to our newsletter</h4>
+					<p>*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada lorem maximus.</p>
+				</div>
+				<div class="col-lg-5 text-lg-right">
+					<form class="newsletter-form">
+						<input type="text" placeholder="Your E-mail">
+						<button class="site-btn sb-dark">Subscribe</button>
+					</form>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+
+Header time
+<div class="hi-content">
+							<h6>Opening Hours</h6>
+							<p>Mon - Sat: 8:00 - 19:00</p>
+						</div>
