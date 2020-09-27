@@ -988,6 +988,8 @@ ol {
 
 .footer-widget .fw-timetable {
   border: 1px solid #616161;
+  border-style: inset;
+  border-width: 5px;
   padding: 45px 30px 25px;
   max-width: 418px;
   margin-left: auto;
